@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails Catering: production" uuid="a7b50525-b92a-474e-83f3-4552c7c7cbed">
+      <first-sync>true</first-sync>
+      <user-name>Catering</user-name>
+      <user-password>dfc9dfcbdfdedfcfdfd8dfc3dfc4dfcd</user-password>
+    </data-source>
+    <data-source name="Rails Catering: development" uuid="4ddfbd49-856e-465e-94b2-1493e53b5d2c">
+      <schema-pattern>Catering_development.*</schema-pattern>
+      <default-schemas>Catering_development.*</default-schemas>
+    </data-source>
+    <data-source name="Rails Catering: test" uuid="74345499-5a36-40ab-bf30-186025c3b0fa">
+      <schema-pattern>Catering_test.*</schema-pattern>
+      <default-schemas>Catering_test.*</default-schemas>
+    </data-source>
+  </component>
+</project>
