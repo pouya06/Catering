@@ -36,6 +36,16 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
   gem "jasmine", github: "pivotal/jasmine-gem"
+  gem 'capybara'
+  gem 'poltergeist'
+  gem 'selenium-webdriver'
+  gem 'rspec'
+  gem 'rspec-rerun'
+  gem 'rspec-legacy_formatters'
+  gem 'faker'
+  gem 'thor'
+  gem 'colorize'
+  gem 'capybara-screenshot'
 end
 
 group :development do
